@@ -22,11 +22,11 @@ Editable project access: [*EasyEDA*](https://easyeda.com/editor#id=9c8f5840523c4
 
 **PCB - Bottom Side (EasyEDA)**
 
-![showcase](https://github.com/rkfael/Low-Current-PCB-Power-Supply-LM317/blob/main/rootimages/Figura%203.png)
+![showcase](https://github.com/rkfael/Low-Current-PCB-Power-Supply-LM317/blob/main/rootimages/Figura%205.png)
 
 **Some Pictures:**
 
-![showcase](https://github.com/rkfael/Low-Current-PCB-Power-Supply-LM317/blob/main/rootimages/Figura%201.png)
+![showcase](https://github.com/rkfael/Low-Current-PCB-Power-Supply-LM317/blob/main/rootimages/Figura%203.png)
 
 ![showcase](https://github.com/rkfael/Low-Current-PCB-Power-Supply-LM317/blob/main/rootimages/Figura%201.png)
 
