@@ -16,6 +16,10 @@ Download LM317_Datasheet: [PDF](https://github.com/rkfael/Low-Current-PCB-Power-
 
 Editable project access: [*EasyEDA*](https://easyeda.com/editor#id=9c8f5840523c481ab3ed346289bed74f|8626b5a63a9f44c1a367c2156f8814c6)
 
+**Breadboard Project**
+
+![showcase](https://github.com/rkfael/Low-Current-PCB-Power-Supply-LM317/blob/main/rootimages/Figura%203.png)
+
 **PCB - Top Side (EasyEDA)**
 
 ![showcase](https://github.com/rkfael/Low-Current-PCB-Power-Supply-LM317/blob/main/rootimages/Figura%204.png)
@@ -26,11 +30,9 @@ Editable project access: [*EasyEDA*](https://easyeda.com/editor#id=9c8f5840523c4
 
 **Some Pictures:**
 
-![showcase](https://github.com/rkfael/Low-Current-PCB-Power-Supply-LM317/blob/main/rootimages/Figura%203.png)
+![showcase](https://github.com/rkfael/Low-Current-PCB-Power-Supply-LM317/blob/main/rootimages/Figura%202.png)
 
 ![showcase](https://github.com/rkfael/Low-Current-PCB-Power-Supply-LM317/blob/main/rootimages/Figura%201.png)
-
-![showcase](https://github.com/rkfael/Low-Current-PCB-Power-Supply-LM317/blob/main/rootimages/Figura%202.png)
 
 ## More about it:
 
