@@ -1,4 +1,4 @@
-<h1 align="center"> LM317 Power Supply </h1>
+<h1 align="center"> Low Current LM317 Power Supply </h1>
 
 <h2 align="center"> Short Articles Series </h2>
 
@@ -14,23 +14,23 @@ Download Schematic: [PDF](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/
 
 Download LM317_Datasheet: [PDF](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/LM317_Datasheet.pdf)
 
-Editable project access: [*EasyEDA*](https://easyeda.com/rkfael/fonte-de-alimenta-o-lm317-v2)
+Editable project access: [*EasyEDA*](https://easyeda.com/editor#id=9c8f5840523c481ab3ed346289bed74f|8626b5a63a9f44c1a367c2156f8814c6)
 
 **Figure 1 - Top Side (EasyEDA)**
 
-![showcase](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/rootimages/Fonte%20de%20Alimenta%C3%A7%C3%A3o%20-%20LM317%20-%20TOP%20SIDE.png)
+![showcase](xxxxxxxxxxxxxxxxxxx)
 
 **Figure 2 - Bottom Side (EasyEDA)**
 
-![showcase](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/rootimages/Fonte%20de%20Alimenta%C3%A7%C3%A3o%20-%20LM317%20-%20BOTTOM%20SIDE.png)
+![showcase](xxxxxxxxxxxxxxxxxxx)
 
 **Some Pictures:**
 
-![showcase](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/rootimages/Picture%201.jpg)
+![showcase](xxxxxxxxxxxxxxxxxxx)
 
-![showcase](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/rootimages/Picture%202.jpg)
+![showcase](xxxxxxxxxxxxxxxxxxx)
 
-![showcase](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/rootimages/Picture%203.jpg)
+![showcase](xxxxxxxxxxxxxxxxxxx)
 
 ## More about it:
 
