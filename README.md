@@ -10,7 +10,7 @@ You can order the fabrication according to your preferences of color, thickness,
 
 Download Prodution File: [Gerber](https://github.com/rkfael/Low-Current-PCB-Power-Supply-LM317/blob/main/Gerber_LM317%20Power%20Supply.zip)
 
-Download Schematic: [PDF](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/Fonte%20de%20Alimenta%C3%A7%C3%A3o%20-%20LM317.pdf)
+Download Schematic: [PDF](https://github.com/rkfael/Low-Current-PCB-Power-Supply-LM317/blob/main/Schematic%20-%20LM317%20Power%20Supply.pdf)
 
 Download LM317_Datasheet: [PDF](https://github.com/rkfael/Low-Current-PCB-Power-Supply-LM317/blob/main/LM317_Datasheet.pdf)
 
