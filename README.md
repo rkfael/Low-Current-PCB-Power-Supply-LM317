@@ -14,7 +14,7 @@ Download Schematic: [PDF](https://github.com/rkfael/Low-Current-PCB-Power-Supply
 
 Download LM317_Datasheet: [PDF](https://github.com/rkfael/Low-Current-PCB-Power-Supply-LM317/blob/main/LM317_Datasheet.pdf)
 
-Editable project access: [*EasyEDA*](https://easyeda.com/editor#id=9c8f5840523c481ab3ed346289bed74f|8626b5a63a9f44c1a367c2156f8814c6)
+Editable project access: [*EasyEDA*](https://oshwlab.com/rkfael/Fonte-de-Alimenta-o-Ajustavel)
 
 **Breadboard Project**
 
